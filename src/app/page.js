@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
   /*let name = "Omar";*/
-  let greeting = "Hello Master Wayne";
+  let greeting = "Hello Master Bruce Wayne";
 
   console.log(greeting + name);
   return (
